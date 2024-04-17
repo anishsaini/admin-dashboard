@@ -22,8 +22,9 @@ const FAQ = () => {
         </AccordionSummary>
         <AccordionDetails>
           <Typography>
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse
-            malesuada lacus ex, sit amet blandit leo lobortis eget.
+          Check node_modules: After installing react-scripts, 
+          make sure it's listed as a dependency in your node_modules directory. 
+          If it's not present, there might have been an issue during installation.
           </Typography>
         </AccordionDetails>
       </Accordion>
@@ -35,8 +36,9 @@ const FAQ = () => {
         </AccordionSummary>
         <AccordionDetails>
           <Typography>
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse
-            malesuada lacus ex, sit amet blandit leo lobortis eget.
+          Check node_modules: After installing react-scripts, 
+          make sure it's listed as a dependency in your node_modules directory. 
+          If it's not present, there might have been an issue during installation.
           </Typography>
         </AccordionDetails>
       </Accordion>
@@ -48,8 +50,9 @@ const FAQ = () => {
         </AccordionSummary>
         <AccordionDetails>
           <Typography>
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse
-            malesuada lacus ex, sit amet blandit leo lobortis eget.
+          Check node_modules: After installing react-scripts, 
+          make sure it's listed as a dependency in your node_modules directory. 
+          If it's not present, there might have been an issue during installation.
           </Typography>
         </AccordionDetails>
       </Accordion>
@@ -61,8 +64,9 @@ const FAQ = () => {
         </AccordionSummary>
         <AccordionDetails>
           <Typography>
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse
-            malesuada lacus ex, sit amet blandit leo lobortis eget.
+          Check node_modules: After installing react-scripts, 
+          make sure it's listed as a dependency in your node_modules directory. 
+          If it's not present, there might have been an issue during installation.
           </Typography>
         </AccordionDetails>
       </Accordion>
@@ -74,8 +78,9 @@ const FAQ = () => {
         </AccordionSummary>
         <AccordionDetails>
           <Typography>
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse
-            malesuada lacus ex, sit amet blandit leo lobortis eget.
+          Check node_modules: After installing react-scripts, 
+          make sure it's listed as a dependency in your node_modules directory. 
+          If it's not present, there might have been an issue during installation.
           </Typography>
         </AccordionDetails>
       </Accordion>
